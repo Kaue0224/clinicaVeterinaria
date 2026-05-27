@@ -1,18 +1,57 @@
-## Getting Started
+# Clínica Veterinária CRUD
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Sistema de gerenciamento para clínica veterinária desenvolvido em Java com integração ao banco de dados PostgreSQL.
 
-## Folder Structure
+## Sobre o Projeto
 
-The workspace contains two folders by default, where:
+O projeto tem como objetivo desenvolver um sistema CRUD completo para gerenciamento de uma clínica veterinária, permitindo o controle de clientes, médicos veterinários e animais cadastrados no sistema.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+A aplicação será desenvolvida utilizando Java e PostgreSQL, aplicando conceitos de Programação Orientada a Objetos (POO) e persistência de dados.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Funcionalidades
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+### Cliente
+- Cadastrar cliente
+- Editar cliente
+- Excluir cliente
+- Consultar cliente
 
-## Dependency Management
+### Médico Veterinário
+- Cadastrar médico veterinário
+- Editar médico veterinário
+- Excluir médico veterinário
+- Consultar médico veterinário
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+### Animal
+- Cadastrar animal
+- Editar animal
+- Excluir animal
+- Consultar animal
+
+## Tecnologias Utilizadas
+
+- Java
+- PostgreSQL
+- JDBC
+- Programação Orientada a Objetos (POO)
+
+## Banco de Dados
+
+O sistema utilizará PostgreSQL para armazenamento e gerenciamento das informações da clínica veterinária.
+
+## Estrutura do Projeto
+
+O projeto contará com:
+- Integração com banco de dados
+- Operações CRUD
+- Organização em camadas
+- Diagrama de classes
+- Interface em desenvolvimento
+
+## Diagrama de Classe
+
+O diagrama de classes será adicionado posteriormente ao repositório.
+
+## Status do Projeto
+
+Projeto em desenvolvimento.
